@@ -26,4 +26,4 @@ This project analyzes COVID-19 data in Turkey using data preprocessing, clusteri
 ## Installation
 1. Clone the repository:
    ```sh
-  git clone https://github.com/Bhargav14122/COVID-19-Analysis-on-turkey.git
+  git clone https://github.com/vinaykumarmamidi/COVID-19-Analysis-on-turkey.git
